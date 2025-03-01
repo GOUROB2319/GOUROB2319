@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning HTML & CSS.
 - 💞️ I’m looking to collaborate on .
 - 📫 How to reach me 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: he
 
 <!---
 GOUROB2319/GOUROB2319 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
